@@ -1,0 +1,6 @@
+<suite name = "Restassured">
+<test name = "Sample Test">
+<classes>
+<class name = "com.restassured.test.SampleTest" />
+</classes>
+</test>
